@@ -1,0 +1,3 @@
+# Interactive-stock-price-visualization-tool
+This project introduces an interactive and dynamic Pythonbased tool for visualizing stock prices using Plotly and the Yahoo Finance API. The user interface allows users to select from a range of popular stocks, such as Google, Tesla, Apple, Cisco, and Intel, or input a custom stock name for personalized analysis
+This project introduces an interactive and dynamic Pythonbased tool for visualizing stock prices using Plotly and the Yahoo Finance API. The user interface allows users to select from a range of popular stocks, such as Google, Tesla, Apple, Cisco, and Intel, or input a custom stock name for personalized analysis.
